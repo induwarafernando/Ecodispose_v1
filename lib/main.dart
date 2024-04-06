@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Text(
-                'Flutter - The Complete Guide',
+                'Ecodispose test 1',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 24,
@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
               ),
               SizedBox(height: 16),
               Text(
-                'Learn Flutter step-by-step, from the ground up.',
+                'lol.',
                 textAlign: TextAlign.center,
               ),
             ],
